@@ -16,6 +16,6 @@ setuptools.setup(
         "Bug Tracker": "https://github.com/SarshenR/Python"
     },
     license='MIT',
-    packages=['toolbox'],
+    packages=['packageOwnPay'],
     install_requires=['requests'],
 )
